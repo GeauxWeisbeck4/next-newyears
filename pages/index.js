@@ -14,8 +14,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          2023 is just over an hour away and 2022 is almost over.
+          
         </p>
 
         <div className={styles.grid}>
